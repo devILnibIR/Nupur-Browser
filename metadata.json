@@ -1,0 +1,9 @@
+{
+  "name": "Nupur Browser",
+  "description": "A sophisticated Chrome-styled browser experience powered by Gemini for intelligent web simulation and search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
